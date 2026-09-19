@@ -1,0 +1,1 @@
+../../../../Frameworks/Autogenesis/examples/run_skillsbench.py
